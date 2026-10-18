@@ -1,0 +1,35 @@
+{
+    "name": "Quick PDF Converter",
+    "short_name": "Quick PDF",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#F5F3FF",
+    "theme_color": "#7C3AED",
+    "description": "PDF to Word and Excel, Word and Excel to PDF. Free, with full Arabic support. Your files never leave your device.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
